@@ -42,4 +42,11 @@
   "devDependencies": {
     "ajv": "^7.2.4"
   }
+  "homepage": "https://manoj-tech-warrior.github.io/Textutils",
+"scripts": {
+  ...
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+
 }
