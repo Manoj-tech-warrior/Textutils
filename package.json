@@ -1,9 +1,11 @@
- "homepage": "https://manoj-tech-warrior.github.io/Textutils",
+
 {
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "homepage": "https://manoj-tech-warrior.github.io/Textutils",
+
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
