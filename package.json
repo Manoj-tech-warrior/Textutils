@@ -45,11 +45,6 @@
     "ajv": "^7.2.4",
     "gh-pages": "^6.3.0"
   }
-  "homepage": "https://manoj-tech-warrior.github.io/Textutils",
-"scripts": {
-  ...
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
+  
 
 }
